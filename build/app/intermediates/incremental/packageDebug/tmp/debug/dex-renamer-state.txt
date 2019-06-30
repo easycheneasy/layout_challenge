@@ -1,0 +1,4 @@
+#Sat Jun 29 20:57:35 CST 2019
+base.0=C\:\\Study\\Flutter-Study\\layout_challenge\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
